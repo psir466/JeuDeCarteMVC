@@ -18,6 +18,7 @@ public class Main {
 		Deroulementpartie.run();
 
 	
+		System.out.println("Fin de partie !!!!");
 		
 	}
 	
