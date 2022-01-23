@@ -14,9 +14,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Faire une partie !");
 		
 		Deroulementpartie.run();
-
+		
+		
 	
 		
 	}
