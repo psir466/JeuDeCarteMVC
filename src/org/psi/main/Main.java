@@ -17,7 +17,7 @@ public class Main {
 		System.out.println("Faire une partie c'est génial !");
 		
 		
-		
+		System.out.println("Faire une partie c'est vraiment génial");
 		
 		Deroulementpartie.run();
 		
