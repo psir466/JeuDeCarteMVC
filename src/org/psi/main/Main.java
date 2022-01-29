@@ -23,7 +23,7 @@ public class Main {
 		
 		
 	
-		System.out.println("Fin de partie !!!!");
+		System.out.println("Fin de partie c'est vraiment génial !!!!");
 		
 	}
 	
