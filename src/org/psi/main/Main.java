@@ -14,13 +14,16 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Faire une partie !");
+		System.out.println("Faire une partie c'est génial !");
+		
+		
+		System.out.println("Faire une partie c'est vraiment génial");
 		
 		Deroulementpartie.run();
 		
 		
 	
-		System.out.println("Fin de partie !!!!");
+		System.out.println("Fin de partie c'est vraiment génial !!!!");
 		
 	}
 	
